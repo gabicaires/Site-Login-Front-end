@@ -1,0 +1,71 @@
+body{
+    background-color: #e57d77;
+}
+
+main{
+    display: flex;
+    width: 800px;
+    margin: 0 auto;
+    background-color: cornflowerblue;
+}
+
+.imagem{
+ 
+}
+
+.img{
+    width: 48px;
+    height: 48px;
+}
+
+.formulario{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.titulo{
+    text-align: center;
+}
+
+.texto{
+    width: 100%;
+    padding: 5px;
+    border-radius: 10px; 
+    border: none;
+    outline: none;
+}
+
+.input{
+    margin-bottom: 10px;
+}
+
+#imagem1{
+    width: 500px;
+}
+
+.sobre-senha{
+    display: flex;
+    gap: 20px;
+}
+
+a{
+    color: darkblue;
+    font-weight: 500;
+}
+
+#submit{
+    width: 100%;
+    padding: 5px;
+    background-color: #0308ff;
+    color: white;
+    font-weight: 600;
+    cursor: pointer;
+    border: none;
+    border-radius: 10px;
+}
+
+footer{
+    text-align: center;
+}
